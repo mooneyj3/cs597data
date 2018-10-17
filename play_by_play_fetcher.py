@@ -1,6 +1,42 @@
 
 """
 This code fetches play-by-play json data
+@author Jonny M.
+
+TODO: organize files by week
+
+game dates:
+wk 1:   9/6
+        9/9
+        9/10
+
+wk 2:   9/13
+        9/16
+        9/17
+
+wk 3:   9/20
+        9/23
+        9/24
+
+wk 4:   9/27
+        9/30
+        10/1
+
+wk 5:   10/4
+        10/7
+        10/8
+
+wk 6:   10/11
+        10/14
+        10/15
+
+wk 7:   10/18
+        10/21
+        10/22
+
+wk 8:   10/25
+        10/28
+        10/29
 """
 
 # 2018100701/2018100701_gtd.json
@@ -20,7 +56,8 @@ import urllib.error
 game_center_base_url = 'http://www.nfl.com/liveupdate/game-center/'
 suffix = '_gtd.json'
 
-output_dir = '/home/mooneyj3/cs597_dv/repos/cs597data/data/playbyplay/'
+# output_dir = '/home/mooneyj3/cs597_dv/repos/cs597data/data/playbyplay/'
+output_dir = './data/playbyplay/'
 
 year = "2018"
 months = range(9, 10 + 1)
