@@ -1,0 +1,3396 @@
+{
+    "season": {
+        "id": "8e45fe2d-fb95-4504-845d-7c815623ccd6",
+        "year": 2018,
+        "type": "REG",
+        "name": "REG"
+    },
+    "week": {
+        "id": "37435167-5cf6-4cce-b405-ff0e264ced9c",
+        "sequence": 1,
+        "title": "1"
+    },
+    "teams": [
+        {
+            "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+            "name": "Jets",
+            "market": "New York",
+            "alias": "NYJ",
+            "sr_id": "sr:competitor:4427",
+            "players": [
+                {
+                    "id": "d96246d7-aa2c-4d05-9c58-8d6bc5e20cdf",
+                    "name": "Kelvin Beachum",
+                    "jersey": "68",
+                    "reference": "00-0029316",
+                    "position": "T",
+                    "sr_id": "sr:player:829037",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:01:30+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "614c6237-8fe9-4a62-beec-0c44ca0fc2ad",
+                    "name": "Jeremiah Attaochu",
+                    "jersey": "55",
+                    "reference": "00-0031258",
+                    "position": "OLB",
+                    "sr_id": "sr:player:827789",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:01:42+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "f41be233-94ee-4d66-bb7b-aabb9a9509e8",
+                    "name": "Josh Martin",
+                    "jersey": "95",
+                    "reference": "00-0030160",
+                    "position": "OLB",
+                    "sr_id": "sr:player:855840",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-08T20:06:07+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "1bdb2a2a-62bc-4043-8c80-f9b501d2003d",
+                    "name": "Brian Winters",
+                    "jersey": "67",
+                    "reference": "00-0030066",
+                    "position": "G",
+                    "sr_id": "sr:player:828243",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:01:30+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "cee49408-2e91-487a-a8ec-d3314ebf539d",
+                    "name": "Steve McLendon",
+                    "jersey": "99",
+                    "reference": "00-0026564",
+                    "position": "NT",
+                    "sr_id": "sr:player:827835",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:01:30+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "fa4ae025-fd66-4752-94fa-63e22ae8abd4",
+                    "name": "Neville Hewitt",
+                    "jersey": "46",
+                    "reference": "00-0031740",
+                    "position": "ILB",
+                    "sr_id": "sr:player:855792",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:02:32+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5d03f256-0569-4908-a0bf-5f95325c8be3",
+                    "name": "Spencer Long",
+                    "jersey": "61",
+                    "reference": "00-0031047",
+                    "position": "C",
+                    "sr_id": "sr:player:830765",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:01:30+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "a36dd143-6b0f-429e-95ba-335559ff4845",
+                    "name": "Avery Williamson",
+                    "jersey": "54",
+                    "reference": "00-0031263",
+                    "position": "ILB",
+                    "sr_id": "sr:player:833643",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:02:04+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "af48c3f0-040b-40f9-95ab-6ebcb4c16cf8",
+                    "name": "Terrelle Pryor Sr.",
+                    "jersey": "16",
+                    "reference": "00-0028825",
+                    "position": "WR",
+                    "sr_id": "sr:player:829625",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:01:30+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "0adf5b2c-35bd-41f2-8e73-3dad53454d78",
+                    "name": "Quincy Enunwa",
+                    "jersey": "81",
+                    "reference": "00-0031023",
+                    "position": "WR",
+                    "sr_id": "sr:player:831249",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:01:30+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "dfbbaf35-08d6-4f58-8577-c2e53a492454",
+                    "name": "Marcus Maye",
+                    "jersey": "26",
+                    "reference": "00-0033892",
+                    "position": "FS",
+                    "sr_id": "sr:player:1129747",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-08T20:06:42+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "639ff90f-285c-44a7-ba8d-6a47d0ecff71",
+                    "name": "Buster Skrine",
+                    "jersey": "41",
+                    "reference": "00-0028075",
+                    "position": "CB",
+                    "sr_id": "sr:player:829297",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:01:30+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "7e5b8212-df93-4069-b3f0-be4b5cb47389",
+                    "name": "Jermaine Kearse",
+                    "jersey": "10",
+                    "reference": "00-0029159",
+                    "position": "WR",
+                    "sr_id": "sr:player:828753",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-08T20:07:11+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Abdomen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+            "name": "Ravens",
+            "market": "Baltimore",
+            "alias": "BAL",
+            "sr_id": "sr:competitor:4413",
+            "players": [
+                {
+                    "id": "13a9ad48-6886-4390-b2d8-9c79cda111d1",
+                    "name": "Kenny Young",
+                    "jersey": "40",
+                    "reference": "00-0034266",
+                    "position": "LB",
+                    "sr_id": "sr:player:1474812",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T17:32:46+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "32884cc4-ff90-42d0-b02b-f9a7df6ce6fb",
+                    "name": "Maurice Canady",
+                    "jersey": "26",
+                    "reference": "00-0032438",
+                    "position": "CB",
+                    "sr_id": "sr:player:1073890",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T17:32:46+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Thigh"
+                        }
+                    ]
+                },
+                {
+                    "id": "389438be-4bd0-4842-9021-b614289b8d98",
+                    "name": "Willie Henry",
+                    "jersey": "69",
+                    "reference": "00-0032409",
+                    "position": "DT",
+                    "sr_id": "sr:player:988801",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T17:32:58+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Abdomen"
+                        }
+                    ]
+                },
+                {
+                    "id": "1b125fc4-5dd9-4eb9-a42f-048e61ca42b7",
+                    "name": "Hayden Hurst",
+                    "jersey": "81",
+                    "reference": "00-0034830",
+                    "position": "TE",
+                    "sr_id": "sr:player:1473434",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T17:33:03+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+            "name": "Seahawks",
+            "market": "Seattle",
+            "alias": "SEA",
+            "sr_id": "sr:competitor:4430",
+            "players": [
+                {
+                    "id": "d5ba025d-5e9d-452d-8b86-f68a3bff5e22",
+                    "name": "Dontae Johnson",
+                    "jersey": "39",
+                    "reference": "00-0031061",
+                    "position": "CB",
+                    "sr_id": "sr:player:852522",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T20:13:58+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hip"
+                        }
+                    ]
+                },
+                {
+                    "id": "94ee954f-baf6-489c-b50f-3b60b2506f33",
+                    "name": "Dion Jordan",
+                    "jersey": "95",
+                    "reference": "00-0030555",
+                    "position": "DE",
+                    "sr_id": "sr:player:828493",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T23:12:55+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "23ce41df-3f29-4f67-9fb5-b9778ac931f8",
+                    "name": "Germain Ifedi",
+                    "jersey": "65",
+                    "reference": "00-0032384",
+                    "position": "T",
+                    "sr_id": "sr:player:986911",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T23:13:07+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "be62bf39-c737-416f-a1ea-6b9d61684a62",
+                    "name": "J.R. Sweezy",
+                    "jersey": "64",
+                    "reference": "00-0029146",
+                    "position": "G",
+                    "sr_id": "sr:player:830467",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T23:12:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "93ff0e6f-fee3-41d1-a913-6111cd9ebef1",
+                    "name": "K.J. Wright",
+                    "jersey": "50",
+                    "reference": "00-0028037",
+                    "position": "OLB",
+                    "sr_id": "sr:player:828335",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T20:13:42+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "b7b3c187-7447-4d02-94b7-5d3ee64ca530",
+                    "name": "Neiko Thorpe",
+                    "jersey": "23",
+                    "reference": "00-0029329",
+                    "position": "CB",
+                    "sr_id": "sr:player:827639",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T23:12:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "c02b49d3-ddc1-4ffc-9f40-487199882fa5",
+                    "name": "Jarran Reed",
+                    "jersey": "90",
+                    "reference": "00-0032387",
+                    "position": "DT",
+                    "sr_id": "sr:player:1074138",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T23:13:24+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "a3855ea8-e71c-4028-86fb-5a1abbd94488",
+                    "name": "D.J. Fluker",
+                    "jersey": "78",
+                    "reference": "00-0030505",
+                    "position": "G",
+                    "sr_id": "sr:player:828895",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T20:13:24+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "2b119688-83b5-4d19-acbf-fa2087035fae",
+                    "name": "Rashaad Penny",
+                    "jersey": "20",
+                    "reference": "00-0034750",
+                    "position": "RB",
+                    "sr_id": "sr:player:1473410",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T23:12:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5af719d9-4a47-4a93-a522-a5060fd0df79",
+                    "name": "Tedric Thompson",
+                    "jersey": "33",
+                    "reference": "00-0033554",
+                    "position": "FS",
+                    "sr_id": "sr:player:1130171",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T23:12:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e1b29179-074b-4c91-8797-763b76ac618a",
+                    "name": "Doug Baldwin",
+                    "jersey": "89",
+                    "reference": "00-0028434",
+                    "position": "WR",
+                    "sr_id": "sr:player:829347",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T23:12:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+            "name": "Falcons",
+            "market": "Atlanta",
+            "alias": "ATL",
+            "sr_id": "sr:competitor:4393",
+            "players": [
+                {
+                    "id": "829307ad-fb1d-4c7b-b073-3098be9464e7",
+                    "name": "Blidi Wreh-Wilson",
+                    "jersey": "33",
+                    "reference": "00-0030541",
+                    "position": "CB",
+                    "sr_id": "sr:player:828573",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-05T15:45:26+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "83d45661-2687-4ca9-ac45-91beac7b7082",
+                    "name": "Isaiah Oliver",
+                    "jersey": "20",
+                    "reference": "00-0034357",
+                    "position": "CB",
+                    "sr_id": "sr:player:1473986",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-05T15:45:19+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "a511a53f-8628-465b-b7ef-79c02dcef127",
+                    "name": "Ben Garland",
+                    "jersey": "63",
+                    "reference": "00-0027282",
+                    "position": "G",
+                    "sr_id": "sr:player:829995",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-05T15:45:06+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "a2a587d3-2971-41f5-a5d4-828d9cf1494e",
+                    "name": "Deion Jones",
+                    "jersey": "45",
+                    "reference": "00-0032388",
+                    "position": "MLB",
+                    "sr_id": "sr:player:987647",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-05T15:44:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "8bbd5520-52e9-4187-889f-bd4552622869",
+                    "name": "Josh Harris",
+                    "jersey": "47",
+                    "reference": "00-0028845",
+                    "position": "LS",
+                    "sr_id": "sr:player:828523",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-05T15:45:12+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hip"
+                        }
+                    ]
+                },
+                {
+                    "id": "0a415a08-ea30-40b2-aac9-42689e3e996a",
+                    "name": "Foyesade Oluokun",
+                    "jersey": "54",
+                    "reference": "00-0034413",
+                    "position": "LB",
+                    "sr_id": "sr:player:1474926",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-05T15:44:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4ba33131-8214-45bf-9ce1-5ac08f1b68c5",
+                    "name": "Ricardo Allen",
+                    "jersey": "37",
+                    "reference": "00-0031181",
+                    "position": "SS",
+                    "sr_id": "sr:player:829923",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-05T15:44:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1283923a-9716-4936-920a-a57f019bb2e8",
+                    "name": "Marvin Hall",
+                    "jersey": "17",
+                    "reference": "00-0033094",
+                    "position": "WR",
+                    "sr_id": "sr:player:1086148",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-05T15:44:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+            "name": "Broncos",
+            "market": "Denver",
+            "alias": "DEN",
+            "sr_id": "sr:competitor:4418",
+            "players": [
+                {
+                    "id": "5554177a-c14b-4931-85c6-fc302eb6770a",
+                    "name": "Joe Jones",
+                    "jersey": "43",
+                    "reference": "00-0033659",
+                    "position": "ILB",
+                    "sr_id": "sr:player:1522689",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:11:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "c3de87d2-5461-491f-8f36-1421ec9c0a76",
+                    "name": "Sam Jones",
+                    "jersey": "70",
+                    "reference": "00-0034405",
+                    "position": "C",
+                    "sr_id": "sr:player:1474860",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:11:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "17cc7638-a3a6-4008-9fbb-72f03ef5f775",
+                    "name": "Shane Ray",
+                    "jersey": "56",
+                    "reference": "00-0032221",
+                    "position": "OLB",
+                    "sr_id": "sr:player:834511",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:11:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "6fc9e2c6-fb44-490e-8353-2362b7b94ee9",
+                    "name": "Brandon Marshall",
+                    "jersey": "54",
+                    "reference": "00-0029620",
+                    "position": "ILB",
+                    "sr_id": "sr:player:830751",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:11:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1d127c62-d7f3-4fe5-b30d-9b7a9cef6637",
+                    "name": "Ron Leary",
+                    "jersey": "65",
+                    "reference": "00-0029010",
+                    "position": "G",
+                    "sr_id": "sr:player:830967",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:11:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "b6c9d494-a3cd-4d57-96e1-f807f0b9be63",
+                    "name": "Bradley Roby",
+                    "jersey": "29",
+                    "reference": "00-0031372",
+                    "position": "CB",
+                    "sr_id": "sr:player:853374",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:11:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "30f98123-214c-4f32-b29c-ac6f3ff56f39",
+                    "name": "Derek Wolfe",
+                    "jersey": "95",
+                    "reference": "00-0029586",
+                    "position": "DE",
+                    "sr_id": "sr:player:831597",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:11:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2a443351-5e63-4a49-819e-912b51a745f2",
+                    "name": "Tim Patrick",
+                    "jersey": "81",
+                    "reference": "00-0033375",
+                    "position": "WR",
+                    "sr_id": "sr:player:1130503",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:11:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+            "name": "Colts",
+            "market": "Indianapolis",
+            "alias": "IND",
+            "sr_id": "sr:competitor:4421",
+            "players": [
+                {
+                    "id": "f9a138e3-829d-442f-8345-43d1cdbac225",
+                    "name": "Darius Leonard",
+                    "jersey": "53",
+                    "reference": "00-0034846",
+                    "position": "ILB",
+                    "sr_id": "sr:player:1474012",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:28:51+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "9294afec-7804-41ba-b948-51a213705abb",
+                    "name": "Denzelle Good",
+                    "jersey": "71",
+                    "reference": "00-0031632",
+                    "position": "T",
+                    "sr_id": "sr:player:855804",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T19:29:48+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee",
+                            "secondary": "Wrist"
+                        }
+                    ]
+                },
+                {
+                    "id": "7fc949b6-a1cb-4f9d-a06d-b65773409a44",
+                    "name": "Zach Pascal",
+                    "jersey": "14",
+                    "reference": "00-0033251",
+                    "position": "WR",
+                    "sr_id": "sr:player:1132243",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:28:59+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "b44fa657-e4ea-4cc8-9581-33740bc417e6",
+                    "name": "Anthony Castonzo",
+                    "jersey": "74",
+                    "reference": "00-0027960",
+                    "position": "T",
+                    "sr_id": "sr:player:830311",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:30:06+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "413f7971-4d5b-496d-a11b-f623e9bc3b7c",
+                    "name": "Marlon Mack",
+                    "jersey": "25",
+                    "reference": "00-0033951",
+                    "position": "RB",
+                    "sr_id": "sr:player:1130121",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:30:26+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "14b52c32-e9f6-4b64-aa22-1d96bb20cf84",
+                    "name": "Anthony Walker",
+                    "jersey": "50",
+                    "reference": "00-0033570",
+                    "position": "ILB",
+                    "sr_id": "sr:player:1130079",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:27:59+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "aaa9228d-7399-4b53-a2e7-259438bd2959",
+                    "name": "Nate Hairston",
+                    "jersey": "27",
+                    "reference": "00-0033568",
+                    "position": "CB",
+                    "sr_id": "sr:player:1130073",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:27:59+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+            "name": "Texans",
+            "market": "Houston",
+            "alias": "HOU",
+            "sr_id": "sr:competitor:4324",
+            "players": [
+                {
+                    "id": "12f4a38f-17b4-42b1-a1e6-9fd6ef08d150",
+                    "name": "Kevin Johnson",
+                    "jersey": "30",
+                    "reference": "00-0031548",
+                    "position": "CB",
+                    "sr_id": "sr:player:834531",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:46:24+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "52d09eea-a580-447a-8062-5841d5a9c8b3",
+                    "name": "Sammie Coates",
+                    "jersey": "18",
+                    "reference": "00-0032166",
+                    "position": "WR",
+                    "sr_id": "sr:player:834743",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:47:56+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "43aeb127-28e7-4fac-a611-39c38f3f7628",
+                    "name": "Duke Ejiofor",
+                    "jersey": "53",
+                    "reference": "00-0034402",
+                    "position": "OLB",
+                    "sr_id": "sr:player:1474988",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:48:24+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "42cbcd13-4fbc-4cea-905b-85d2c0b0ff55",
+                    "name": "Kayvon Webster",
+                    "jersey": "36",
+                    "reference": "00-0030523",
+                    "position": "CB",
+                    "sr_id": "sr:player:828789",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T19:47:41+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Achilles"
+                        }
+                    ]
+                },
+                {
+                    "id": "095e0c1a-0bea-4bc6-868f-e4bbe2ce6c30",
+                    "name": "Will Fuller V",
+                    "jersey": "15",
+                    "reference": "00-0033127",
+                    "position": "WR",
+                    "sr_id": "sr:player:986909",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:48:36+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "203b60aa-cb94-499c-a4ca-d3c6b94dddc4",
+                    "name": "Ka'imi Fairbairn",
+                    "jersey": "7",
+                    "reference": "00-0032726",
+                    "position": "K",
+                    "sr_id": "sr:player:989233",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:46:24+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "eafbc0f8-2e3b-4014-af9d-81fc14b5009a",
+                    "name": "Whitney Mercilus",
+                    "jersey": "59",
+                    "reference": "00-0029643",
+                    "position": "OLB",
+                    "sr_id": "sr:player:828309",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:46:31+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "40caae08-0389-4c59-b796-d924047f57f9",
+                    "name": "Keke Coutee",
+                    "jersey": "16",
+                    "reference": "00-0034366",
+                    "position": "WR",
+                    "sr_id": "sr:player:1475136",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:48:08+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+            "name": "Packers",
+            "market": "Green Bay",
+            "alias": "GB",
+            "sr_id": "sr:competitor:4420",
+            "players": [
+                {
+                    "id": "ab9bd5b1-eaf9-4f2d-8acd-fbc143980b17",
+                    "name": "Oren Burks",
+                    "jersey": "42",
+                    "reference": "00-0034754",
+                    "position": "ILB",
+                    "sr_id": "sr:player:1474006",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T20:02:17+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "bc175901-4a1f-4132-abb4-e49cc7d35e12",
+                    "name": "Trevor Davis",
+                    "jersey": "11",
+                    "reference": "00-0032423",
+                    "position": "WR",
+                    "sr_id": "sr:player:988707",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-11T16:54:45+00:00",
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "a84d5d5d-3fa3-483e-b737-6587971decc5",
+                    "name": "James Crawford",
+                    "jersey": "54",
+                    "reference": "00-0034881",
+                    "position": "ILB",
+                    "sr_id": "sr:player:1475936",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T20:02:17+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "8ddd0a30-563c-4fae-a6a8-a19747721924",
+                    "name": "Josh Jones",
+                    "jersey": "27",
+                    "reference": "00-0033903",
+                    "position": "SS",
+                    "sr_id": "sr:player:1129857",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T20:03:27+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+            "name": "Buccaneers",
+            "market": "Tampa Bay",
+            "alias": "TB",
+            "sr_id": "sr:competitor:4388",
+            "players": [
+                {
+                    "id": "f552cc18-aaf5-48ef-87f1-4791a101e553",
+                    "name": "Donovan Smith",
+                    "jersey": "76",
+                    "reference": "00-0032217",
+                    "position": "T",
+                    "sr_id": "sr:player:834677",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T18:58:31+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "503eb9a7-83ed-4b96-b0f2-7afe4920bde9",
+                    "name": "Vita Vea",
+                    "jersey": "50",
+                    "reference": "00-0034773",
+                    "position": "DT",
+                    "sr_id": "sr:player:1473456",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:59:38+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "7979b613-6dbf-4534-8166-6430433c1ec3",
+                    "name": "Brent Grimes",
+                    "jersey": "24",
+                    "reference": "00-0024183",
+                    "position": "CB",
+                    "sr_id": "sr:player:830127",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T18:58:48+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "3d405d21-bfdd-4495-afe3-9e96d1972ee2",
+                    "name": "M.J. Stewart",
+                    "jersey": "36",
+                    "reference": "00-0034355",
+                    "position": "CB",
+                    "sr_id": "sr:player:1474040",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:57:38+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2c80e71d-c173-4c07-aeda-69371e969591",
+                    "name": "Evan Smith",
+                    "jersey": "62",
+                    "reference": "00-0026784",
+                    "position": "G",
+                    "sr_id": "sr:player:828225",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:57:22+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e929b3d8-6f7b-41f2-acfa-fe3840d03509",
+                    "name": "Vinny Curry",
+                    "jersey": "97",
+                    "reference": "00-0029412",
+                    "position": "DE",
+                    "sr_id": "sr:player:830569",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:58:29+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e5bd7067-d9ac-4aee-a073-3f345cf8191c",
+                    "name": "De'Vante Harris",
+                    "jersey": "22",
+                    "reference": "00-0032946",
+                    "position": "CB",
+                    "sr_id": "sr:player:989303",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T18:59:11+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+            "name": "Chiefs",
+            "market": "Kansas City",
+            "alias": "KC",
+            "sr_id": "sr:competitor:4422",
+            "players": [
+                {
+                    "id": "750c6332-6848-4303-9916-a6ed49833a56",
+                    "name": "Allen Bailey",
+                    "jersey": "97",
+                    "reference": "00-0028024",
+                    "position": "DE",
+                    "sr_id": "sr:player:828609",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:24:59+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "11b9bcde-b2c8-412b-9689-4420182ca928",
+                    "name": "Marcus Kemp",
+                    "jersey": "19",
+                    "reference": "00-0033481",
+                    "position": "WR",
+                    "sr_id": "sr:player:1133777",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:24:59+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1fb9a153-f1e0-4396-81fd-c3b1d331338f",
+                    "name": "Justin Hamilton",
+                    "jersey": "74",
+                    "reference": "00-0031636",
+                    "position": "DT",
+                    "sr_id": "sr:player:853342",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:24:59+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "cda62c8b-89dd-4c03-a86d-dba70541693a",
+                    "name": "Reggie Ragland",
+                    "jersey": "59",
+                    "reference": "00-0033058",
+                    "position": "ILB",
+                    "sr_id": "sr:player:987643",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:24:59+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "6e8964e3-bc64-4cff-acdf-b984f9b28811",
+                    "name": "Eric Berry",
+                    "jersey": "29",
+                    "reference": "00-0027858",
+                    "position": "SS",
+                    "sr_id": "sr:player:830607",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T19:25:16+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Heel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+            "name": "Patriots",
+            "market": "New England",
+            "alias": "NE",
+            "sr_id": "sr:competitor:4424",
+            "players": [
+                {
+                    "id": "3164fc4b-b2ae-43b3-9ff1-1d5f744b9f88",
+                    "name": "Ja'Whaun Bentley",
+                    "jersey": "51",
+                    "reference": "00-0034385",
+                    "position": "LB",
+                    "sr_id": "sr:player:1474972",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T20:18:22+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "99b8d78e-6d23-4e85-8eef-d286ba5ddc0c",
+                    "name": "Marcus Cannon",
+                    "jersey": "61",
+                    "reference": "00-0028076",
+                    "position": "T",
+                    "sr_id": "sr:player:829421",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:53:50+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "ad2a1d03-020b-487a-bd5f-7ca9fbc250fe",
+                    "name": "Jacob Hollister",
+                    "jersey": "47",
+                    "reference": "00-0033387",
+                    "position": "TE",
+                    "sr_id": "sr:player:1130477",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:53:50+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "93927d6e-9271-4c1e-8239-cc20fd788ba9",
+                    "name": "Nate Ebner",
+                    "jersey": "43",
+                    "reference": "00-0029570",
+                    "position": "S",
+                    "sr_id": "sr:player:831195",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:53:50+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "c2ee7e58-321d-44b6-9db8-f333b75b3a1b",
+                    "name": "Duke Dawson",
+                    "jersey": "29",
+                    "reference": "00-0034744",
+                    "position": "DB",
+                    "sr_id": "sr:player:1473990",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T20:25:32+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1376da0d-0448-4a37-bd99-842c4580eeda",
+                    "name": "Sony Michel",
+                    "jersey": "26",
+                    "reference": "00-0034845",
+                    "position": "RB",
+                    "sr_id": "sr:player:1473466",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T19:53:50+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+            "name": "Browns",
+            "market": "Cleveland",
+            "alias": "CLE",
+            "sr_id": "sr:competitor:4417",
+            "players": [
+                {
+                    "id": "b9e6500f-2bb4-47b1-a3ea-1e3f925a3743",
+                    "name": "Damarious Randall",
+                    "jersey": "23",
+                    "reference": "00-0032251",
+                    "position": "FS",
+                    "sr_id": "sr:player:834555",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:54:22+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "9314e111-0b7e-4a75-8026-0cc5abe40543",
+                    "name": "Desmond Harrison",
+                    "jersey": "69",
+                    "reference": "00-0034259",
+                    "position": "T",
+                    "sr_id": "sr:player:1474980",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:54:58+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "a2451bf7-83dd-496c-b527-c14d8d518598",
+                    "name": "Seth DeValve",
+                    "jersey": "87",
+                    "reference": "00-0033080",
+                    "position": "TE",
+                    "sr_id": "sr:player:988763",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:54:38+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "8905d02c-c7f7-4a50-901b-6eee71e39cc6",
+                    "name": "Trevon Coley",
+                    "jersey": "93",
+                    "reference": "00-0032566",
+                    "position": "DT",
+                    "sr_id": "sr:player:1083486",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:54:22+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "462bfd22-1159-408f-8f92-7fde712ffc3a",
+                    "name": "Christian Kirksey",
+                    "jersey": "58",
+                    "reference": "00-0031361",
+                    "position": "OLB",
+                    "sr_id": "sr:player:830329",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:54:22+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "a56b9958-2eb9-47d2-a50e-be8aeaea3eaf",
+                    "name": "Genard Avery",
+                    "jersey": "55",
+                    "reference": "00-0034682",
+                    "position": "LB",
+                    "sr_id": "sr:player:1526813",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:54:22+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "b228c353-bb1f-4ba8-aa6d-d18ecf297259",
+                    "name": "Josh Gordon",
+                    "jersey": "12",
+                    "reference": "00-0029664",
+                    "position": "WR",
+                    "sr_id": "sr:player:828729",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:54:52+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "0b06c168-c660-440a-922e-954ac15c0df0",
+                    "name": "James Burgess Jr.",
+                    "jersey": "52",
+                    "reference": "00-0032627",
+                    "position": "OLB",
+                    "sr_id": "sr:player:1074316",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T18:56:09+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "ab7df007-37bf-407b-b77d-0e719c80f065",
+                    "name": "E.J. Gaines",
+                    "jersey": "28",
+                    "reference": "00-0031394",
+                    "position": "CB",
+                    "sr_id": "sr:player:854894",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:56:39+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+            "name": "Chargers",
+            "market": "Los Angeles",
+            "alias": "LAC",
+            "sr_id": "sr:competitor:4429",
+            "players": [
+                {
+                    "id": "a6fe5f18-d78d-4a56-aea2-ef4bed7e647a",
+                    "name": "Tyrell Williams",
+                    "jersey": "16",
+                    "reference": "00-0032160",
+                    "position": "WR",
+                    "sr_id": "sr:player:855286",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:47:59+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1ce88c74-024e-4288-94ee-5dca10362153",
+                    "name": "Joey Bosa",
+                    "jersey": "99",
+                    "reference": "00-0033156",
+                    "position": "DE",
+                    "sr_id": "sr:player:986877",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T19:48:13+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "c82a3f67-90b7-4cc8-ac3b-e6cf469cc541",
+                    "name": "Justin Jones",
+                    "jersey": "91",
+                    "reference": "00-0034677",
+                    "position": "DT",
+                    "sr_id": "sr:player:1473992",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T19:46:39+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+            "name": "Giants",
+            "market": "New York",
+            "alias": "NYG",
+            "sr_id": "sr:competitor:4426",
+            "players": [
+                {
+                    "id": "b220a72d-6870-418a-98af-ef50632be774",
+                    "name": "Tae Davis",
+                    "jersey": "58",
+                    "reference": "00-0034500",
+                    "position": "ILB",
+                    "sr_id": "sr:player:1477898",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T17:08:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "3be41614-5c70-4b0a-89c7-c7ae061d9223",
+                    "name": "Olivier Vernon",
+                    "jersey": "54",
+                    "reference": "00-0029693",
+                    "position": "DE",
+                    "sr_id": "sr:player:831231",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T17:08:08+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "074acf5e-748f-4d42-9875-0090f1480bec",
+                    "name": "Lorenzo Carter",
+                    "jersey": "59",
+                    "reference": "00-0034360",
+                    "position": "LB",
+                    "sr_id": "sr:player:1526435",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:07:44+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1c1cec48-6352-4556-b789-35304c1a6ae1",
+            "name": "Raiders",
+            "market": "Oakland",
+            "alias": "OAK",
+            "sr_id": "sr:competitor:4390",
+            "players": [
+                {
+                    "id": "91714138-9d0c-446d-b509-709d95f9202b",
+                    "name": "Nick Nelson",
+                    "jersey": "23",
+                    "reference": "00-0034767",
+                    "position": "CB",
+                    "sr_id": "sr:player:1475122",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:38:39+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "70eae82c-30ea-491f-b71c-aa11f47af476",
+                    "name": "Tahir Whitehead",
+                    "jersey": "59",
+                    "reference": "00-0029212",
+                    "position": "OLB",
+                    "sr_id": "sr:player:827597",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:38:39+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "eddd3f47-fdd1-4d53-9e31-93b46624fd0f",
+                    "name": "Brian Price",
+                    "jersey": "93",
+                    "reference": "00-0032649",
+                    "position": "DT",
+                    "sr_id": "sr:player:990741",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-08T20:38:43+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "82bce0be-9a87-4b6d-a85b-623bf8d1674e",
+                    "name": "Marshawn Lynch",
+                    "jersey": "24",
+                    "reference": "00-0025399",
+                    "position": "RB",
+                    "sr_id": "sr:player:829639",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:38:39+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "c7b7d27f-97c3-4c12-95c4-36205175c959",
+                    "name": "DeAndre Washington",
+                    "jersey": "33",
+                    "reference": "00-0032940",
+                    "position": "RB",
+                    "sr_id": "sr:player:1073960",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-08T20:39:07+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "45fe5280-b366-4c8a-8f2e-99fa5a4ff631",
+                    "name": "Kelechi Osemele",
+                    "jersey": "70",
+                    "reference": "00-0029259",
+                    "position": "G",
+                    "sr_id": "sr:player:831591",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T20:38:39+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+            "name": "Titans",
+            "market": "Tennessee",
+            "alias": "TEN",
+            "sr_id": "sr:competitor:367364",
+            "players": [
+                {
+                    "id": "60d5e71e-e127-463b-8e6b-26a7dac3db76",
+                    "name": "Harold Landry",
+                    "jersey": "58",
+                    "reference": "00-0034828",
+                    "position": "OLB",
+                    "sr_id": "sr:player:1473968",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:47:51+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "428873c9-887a-48a2-b4d3-e06618ebd2dc",
+                    "name": "Derrick Morgan",
+                    "jersey": "91",
+                    "reference": "00-0027868",
+                    "position": "OLB",
+                    "sr_id": "sr:player:827883",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:47:20+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "07ab211c-4733-4336-b59a-2137f3efe5e8",
+                    "name": "Kendrick Lewis",
+                    "jersey": "28",
+                    "reference": "00-0027736",
+                    "position": "FS",
+                    "sr_id": "sr:player:830791",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:47:57+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "0e7d7ddc-6515-4034-8857-5ab9da6b7c25",
+                    "name": "Jack Conklin",
+                    "jersey": "78",
+                    "reference": "00-0033057",
+                    "position": "T",
+                    "sr_id": "sr:player:986905",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:47:41+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "0813c5eb-608c-4a6d-8bfb-ed3538767e90",
+                    "name": "Rashaan Evans",
+                    "jersey": "54",
+                    "reference": "00-0034743",
+                    "position": "LB",
+                    "sr_id": "sr:player:1523073",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:47:46+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+            "name": "Panthers",
+            "market": "Carolina",
+            "alias": "CAR",
+            "sr_id": "sr:competitor:4415",
+            "players": [
+                {
+                    "id": "587d0a98-7ec5-45a5-adba-8af26e8f256b",
+                    "name": "Greg Olsen",
+                    "jersey": "88",
+                    "reference": "00-0025418",
+                    "position": "TE",
+                    "sr_id": "sr:player:828543",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-08T17:09:58+00:00",
+                            "primary": "Back"
+                        }
+                    ]
+                },
+                {
+                    "id": "66a21b6d-97e5-4732-8bb0-062145d6bbc6",
+                    "name": "Curtis Samuel",
+                    "jersey": "10",
+                    "reference": "00-0033282",
+                    "position": "WR",
+                    "sr_id": "sr:player:1129833",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T16:43:02+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Medical Illness"
+                        }
+                    ]
+                },
+                {
+                    "id": "b167835a-3f62-4755-9acd-319c5a3903e3",
+                    "name": "Daryl Williams",
+                    "jersey": "60",
+                    "reference": "00-0031567",
+                    "position": "T",
+                    "sr_id": "sr:player:835181",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T16:42:55+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "7c7b5515-7786-4e24-9ce0-34e6a8bd5727",
+                    "name": "Chris Manhertz",
+                    "jersey": "82",
+                    "reference": "00-0031484",
+                    "position": "TE",
+                    "sr_id": "sr:player:830049",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T16:42:55+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "a25bf0a9-84a3-49c3-9969-50b046a0fa30",
+                    "name": "Brendan Mahon",
+                    "jersey": "63",
+                    "reference": "00-0034582",
+                    "position": "G",
+                    "sr_id": "sr:player:1476004",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T16:42:43+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "22b17923-9927-42ad-9c57-d9e89c5dd61b",
+                    "name": "Amini Silatolu",
+                    "jersey": "65",
+                    "reference": "00-0029254",
+                    "position": "G",
+                    "sr_id": "sr:player:827541",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T16:42:55+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+            "name": "Eagles",
+            "market": "Philadelphia",
+            "alias": "PHI",
+            "sr_id": "sr:competitor:4428",
+            "players": [
+                {
+                    "id": "485369eb-3586-4aa2-9628-77d954f23da3",
+                    "name": "Michael Bennett",
+                    "jersey": "77",
+                    "reference": "00-0026618",
+                    "position": "DE",
+                    "sr_id": "sr:player:829509",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-05T16:14:18+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5c529c33-8a1d-413a-b635-880ac86f30c1",
+                    "name": "Alshon Jeffery",
+                    "jersey": "17",
+                    "reference": "00-0029137",
+                    "position": "WR",
+                    "sr_id": "sr:player:828629",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-05T16:14:45+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "93cb5790-1012-4c42-bccb-5748c27ba7d6",
+                    "name": "Mack Hollins",
+                    "jersey": "10",
+                    "reference": "00-0033555",
+                    "position": "WR",
+                    "sr_id": "sr:player:1129973",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-05T16:14:38+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "bb78a66a-a8ec-4294-8858-c7e5a1d15106",
+                    "name": "Jay Ajayi",
+                    "jersey": "26",
+                    "reference": "00-0031590",
+                    "position": "RB",
+                    "sr_id": "sr:player:835163",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-05T16:14:05+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e00b3426-238b-4bdb-85c3-bbf08b7469e3",
+                    "name": "Richard Rodgers",
+                    "jersey": "82",
+                    "reference": "00-0031384",
+                    "position": "TE",
+                    "sr_id": "sr:player:829813",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-03T20:32:37+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e9a5c16b-4472-4be9-8030-3f77be7890cb",
+                    "name": "Carson Wentz",
+                    "jersey": "11",
+                    "reference": "00-0032950",
+                    "position": "QB",
+                    "sr_id": "sr:player:986895",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-05T16:14:50+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+            "name": "Jaguars",
+            "market": "Jacksonville",
+            "alias": "JAC",
+            "sr_id": "sr:competitor:4386",
+            "players": [
+                {
+                    "id": "ca53fda9-d20a-4bc7-b8dc-deef28355399",
+                    "name": "Jalen Ramsey",
+                    "jersey": "20",
+                    "reference": "00-0033055",
+                    "position": "CB",
+                    "sr_id": "sr:player:986891",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T16:30:10+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e78261de-af00-4530-824c-500addbe9f98",
+                    "name": "Austin Seferian-Jenkins",
+                    "jersey": "88",
+                    "reference": "00-0031418",
+                    "position": "TE",
+                    "sr_id": "sr:player:829845",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T16:30:14+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "f5eaf900-592e-4a3a-8514-4426dce7d3c3",
+                    "name": "Brandon Linder",
+                    "jersey": "65",
+                    "reference": "00-0031369",
+                    "position": "C",
+                    "sr_id": "sr:player:855666",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T16:30:00+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "0d91e0a9-232f-4e27-b6a5-e7f7e1d3fc6c",
+                    "name": "Jermey Parnell",
+                    "jersey": "78",
+                    "reference": "00-0026839",
+                    "position": "T",
+                    "sr_id": "sr:player:828901",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T16:30:05+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4f454037-be8e-4575-b332-5e40f4788970",
+                    "name": "Cody Davis",
+                    "jersey": "22",
+                    "reference": "00-0029764",
+                    "position": "FS",
+                    "sr_id": "sr:player:828755",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-08T20:24:47+00:00",
+                            "primary": "Rib"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "33405046-04ee-4058-a950-d606f8c30852",
+            "name": "Vikings",
+            "market": "Minnesota",
+            "alias": "MIN",
+            "sr_id": "sr:competitor:4423",
+            "players": [
+                {
+                    "id": "16cd3b59-18a2-40a0-9236-e222bed17044",
+                    "name": "Stacy Coley",
+                    "jersey": "13",
+                    "reference": "00-0033968",
+                    "position": "WR",
+                    "sr_id": "sr:player:1130225",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:14:46+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "7fbf8067-075e-4db7-8090-6ead0e5b8910",
+                    "name": "Roc Thomas",
+                    "jersey": "32",
+                    "reference": "00-0034221",
+                    "position": "RB",
+                    "sr_id": "sr:player:1475092",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:17:13+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "4f799675-2b27-4437-9acc-bc4e0c73ef0f",
+                    "name": "Marcus Sherels",
+                    "jersey": "35",
+                    "reference": "00-0027547",
+                    "position": "CB",
+                    "sr_id": "sr:player:829877",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:14:46+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "9b14942e-0ddc-436c-a6be-5947a39589e5",
+                    "name": "Mackensie Alexander",
+                    "jersey": "20",
+                    "reference": "00-0032389",
+                    "position": "CB",
+                    "sr_id": "sr:player:987669",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T18:17:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "7f59e894-4ce1-4803-a556-2e02add60bc2",
+                    "name": "Aviante Collins",
+                    "jersey": "76",
+                    "reference": "00-0033326",
+                    "position": "T",
+                    "sr_id": "sr:player:1130487",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:18:34+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Elbow"
+                        }
+                    ]
+                },
+                {
+                    "id": "81a5c010-2e89-4b65-a924-015cf4ea3f94",
+                    "name": "Xavier Rhodes",
+                    "jersey": "29",
+                    "reference": "00-0030575",
+                    "position": "CB",
+                    "sr_id": "sr:player:828591",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T18:16:45+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "f9d87dfe-4a57-482a-a77f-37906daa4382",
+                    "name": "Pat Elflein",
+                    "jersey": "65",
+                    "reference": "00-0033909",
+                    "position": "C",
+                    "sr_id": "sr:player:1129737",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:17:21+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Ankle",
+                            "secondary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "8048bdd1-62cf-4d01-8257-741a585dae8e",
+                    "name": "Riley Reiff",
+                    "jersey": "71",
+                    "reference": "00-0029672",
+                    "position": "T",
+                    "sr_id": "sr:player:829457",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:16:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+            "name": "Cowboys",
+            "market": "Dallas",
+            "alias": "DAL",
+            "sr_id": "sr:competitor:4392",
+            "players": [
+                {
+                    "id": "dea8f688-602c-4b48-946f-e634fb81d737",
+                    "name": "Travis Frederick",
+                    "jersey": "72",
+                    "reference": "00-0030546",
+                    "position": "C",
+                    "sr_id": "sr:player:828373",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:41:30+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Illness"
+                        }
+                    ]
+                },
+                {
+                    "id": "5e11c306-6387-46ed-8a6d-3ff7a8210ed5",
+                    "name": "Chidobe Awuzie",
+                    "jersey": "24",
+                    "reference": "00-0033548",
+                    "position": "CB",
+                    "sr_id": "sr:player:1129805",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T18:41:05+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            },
+                            "primary": "Back"
+                        }
+                    ]
+                },
+                {
+                    "id": "cd09c042-0bfc-4866-8d3f-a14ef4c3d7fc",
+                    "name": "Xavier Woods",
+                    "jersey": "25",
+                    "reference": "00-0033579",
+                    "position": "FS",
+                    "sr_id": "sr:player:1130239",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:41:42+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "c9e9ca73-6605-42cb-ab44-2230dcea187a",
+                    "name": "Parker Ehinger",
+                    "jersey": "79",
+                    "reference": "00-0032771",
+                    "position": "G",
+                    "sr_id": "sr:player:988703",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:40:35+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "a6493c08-f70e-4aef-ab07-914625b9c047",
+                    "name": "Kavon Frazier",
+                    "jersey": "35",
+                    "reference": "00-0033048",
+                    "position": "SS",
+                    "sr_id": "sr:player:1073876",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T18:41:05+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "3258dbca-9194-4fd7-bc2b-8440c73d0d9c",
+                    "name": "Datone Jones",
+                    "jersey": "56",
+                    "reference": "00-0030576",
+                    "position": "DT",
+                    "sr_id": "sr:player:830887",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:41:37+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+            "name": "Bengals",
+            "market": "Cincinnati",
+            "alias": "CIN",
+            "sr_id": "sr:competitor:4416",
+            "players": [
+                {
+                    "id": "be4f1dbd-6ffd-4054-9f49-cc398d4ce5f3",
+                    "name": "Tony McRae",
+                    "jersey": "29",
+                    "reference": "00-0032934",
+                    "position": "CB",
+                    "sr_id": "sr:player:1082982",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:13:26+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "c2187fda-5e33-4854-b3f8-c0c1c5fbfb35",
+                    "name": "Cordy Glenn",
+                    "jersey": "77",
+                    "reference": "00-0029561",
+                    "position": "T",
+                    "sr_id": "sr:player:828821",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:13:18+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ca6c7b35-6ae1-4ba7-ae98-1f26174e407d",
+                    "name": "Mason Schreck",
+                    "jersey": "86",
+                    "reference": "00-0033798",
+                    "position": "TE",
+                    "sr_id": "sr:player:1130205",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:07:40+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "fa6b16fe-d3cd-4296-a0e6-03ad13d27a57",
+                    "name": "Cody Core",
+                    "jersey": "16",
+                    "reference": "00-0032795",
+                    "position": "WR",
+                    "sr_id": "sr:player:988721",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T17:13:51+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Back"
+                        }
+                    ]
+                },
+                {
+                    "id": "94001c44-9eea-4d2b-a766-079ddcb2e8b0",
+                    "name": "Clayton Fejedelem",
+                    "jersey": "42",
+                    "reference": "00-0032807",
+                    "position": "SS",
+                    "sr_id": "sr:player:988785",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:07:40+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "14ecf9dd-3a77-4847-8e62-407cd1182f1c",
+                    "name": "Tyler Eifert",
+                    "jersey": "85",
+                    "reference": "00-0030549",
+                    "position": "TE",
+                    "sr_id": "sr:player:830001",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:07:40+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e232b84c-2e05-494a-98ac-69489544d16f",
+                    "name": "Vincent Rey",
+                    "jersey": "57",
+                    "reference": "00-0027245",
+                    "position": "OLB",
+                    "sr_id": "sr:player:828193",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:07:40+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+            "name": "Redskins",
+            "market": "Washington",
+            "alias": "WAS",
+            "sr_id": "sr:competitor:4432",
+            "players": [
+                {
+                    "id": "a25f92e6-6e67-4463-a32f-77976807b3d8",
+                    "name": "Ryan Kerrigan",
+                    "jersey": "91",
+                    "reference": "00-0027954",
+                    "position": "OLB",
+                    "sr_id": "sr:player:829029",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:19:59+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "8002dd5e-a75a-4d72-9a8c-0f4dbc80d459",
+                    "name": "Jamison Crowder",
+                    "jersey": "80",
+                    "reference": "00-0031941",
+                    "position": "WR",
+                    "sr_id": "sr:player:835265",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:18:51+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3699dfd9-d437-43f7-b674-adbb31e7e64b",
+                    "name": "Colt McCoy",
+                    "jersey": "12",
+                    "reference": "00-0027688",
+                    "position": "QB",
+                    "sr_id": "sr:player:831135",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:18:12+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "c1ca7e3d-f072-41c7-8017-53401dbdd4d4",
+                    "name": "Maurice Harris",
+                    "jersey": "13",
+                    "reference": "00-0032362",
+                    "position": "WR",
+                    "sr_id": "sr:player:990365",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:25:31+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "e858a1af-ebbe-4413-9903-ecd96d36a09b",
+                    "name": "Zach Brown",
+                    "jersey": "53",
+                    "reference": "00-0029566",
+                    "position": "ILB",
+                    "sr_id": "sr:player:829267",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:18:12+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "b070601c-7985-4a1c-b71a-9f72bb5dbc59",
+                    "name": "Trent Williams",
+                    "jersey": "71",
+                    "reference": "00-0027857",
+                    "position": "T",
+                    "sr_id": "sr:player:830955",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:18:12+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+            "name": "Lions",
+            "market": "Detroit",
+            "alias": "DET",
+            "sr_id": "sr:competitor:4419",
+            "players": [
+                {
+                    "id": "c0e4ed02-82ec-4bde-a1b1-c035dde46402",
+                    "name": "Ricky Jean-Francois",
+                    "jersey": "97",
+                    "reference": "00-0026502",
+                    "position": "DT",
+                    "sr_id": "sr:player:830847",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-08T19:59:32+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3f142dc8-b7a7-433d-9b70-efdd0a8a0a6a",
+                    "name": "Andrew Donnal",
+                    "jersey": "78",
+                    "reference": "00-0032246",
+                    "position": "T",
+                    "sr_id": "sr:player:835233",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-08T19:59:47+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+            "name": "49ers",
+            "market": "San Francisco",
+            "alias": "SF",
+            "sr_id": "sr:competitor:4389",
+            "players": [
+                {
+                    "id": "1b8414b5-3db8-4e89-8bcc-7ac7f7d0b931",
+                    "name": "Jimmie Ward",
+                    "jersey": "20",
+                    "reference": "00-0031298",
+                    "position": "CB",
+                    "sr_id": "sr:player:829883",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T20:04:45+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "03611d74-221a-4436-913f-d23f95542598",
+                    "name": "Erik Magnuson",
+                    "jersey": "62",
+                    "reference": "00-0033317",
+                    "position": "C",
+                    "sr_id": "sr:player:1130529",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T20:05:34+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "680fd5cf-3bdc-4317-bc99-cbd97fbebeb3",
+                    "name": "Dekoda Watson",
+                    "jersey": "97",
+                    "reference": "00-0027812",
+                    "position": "OLB",
+                    "sr_id": "sr:player:830649",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T20:05:56+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "bcebf5f0-0224-4cc8-9a78-1aefd55bfc87",
+                    "name": "Malcolm Smith",
+                    "jersey": "51",
+                    "reference": "00-0028180",
+                    "position": "OLB",
+                    "sr_id": "sr:player:830379",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T20:05:41+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "a9fa2c9b-56df-470e-8f4f-682cdeb3dd7b",
+                    "name": "Garry Gilliam",
+                    "jersey": "76",
+                    "reference": "00-0030899",
+                    "position": "T",
+                    "sr_id": "sr:player:833689",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T20:04:45+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+            "name": "Bears",
+            "market": "Chicago",
+            "alias": "CHI",
+            "sr_id": "sr:competitor:4391",
+            "players": [
+                {
+                    "id": "43ccb78e-353d-4d0b-ac51-4103415a568c",
+                    "name": "DeAndre Houston-Carson",
+                    "jersey": "36",
+                    "reference": "00-0032790",
+                    "position": "FS",
+                    "sr_id": "sr:player:1074140",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:57:24+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Forearm",
+                            "secondary": "Back"
+                        }
+                    ]
+                },
+                {
+                    "id": "8e6af99d-a697-4be5-ae7f-f1ddc12bd15a",
+                    "name": "Kyle Long",
+                    "jersey": "75",
+                    "reference": "00-0030441",
+                    "position": "G",
+                    "sr_id": "sr:player:830469",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T18:56:58+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1b016b52-62ba-4da9-9ead-6bad689f8d33",
+                    "name": "Daniel Brown",
+                    "jersey": "85",
+                    "reference": "00-0032098",
+                    "position": "TE",
+                    "sr_id": "sr:player:855302",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T18:57:17+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+            "name": "Dolphins",
+            "market": "Miami",
+            "alias": "MIA",
+            "sr_id": "sr:competitor:4287",
+            "players": [
+                {
+                    "id": "9c2bf2fc-d6cb-479d-8ece-f2ab4d1cda91",
+                    "name": "Josh Sitton",
+                    "jersey": "71",
+                    "reference": "00-0026275",
+                    "position": "G",
+                    "sr_id": "sr:player:831223",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:17:00+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2c48a13f-bac4-46f8-b405-7ada72dd543e",
+                    "name": "Ted Larsen",
+                    "jersey": "62",
+                    "reference": "00-0027607",
+                    "position": "G",
+                    "sr_id": "sr:player:829407",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:17:22+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "6a2b129d-a9e5-4131-b491-82269b323f77",
+                    "name": "Frank Gore",
+                    "jersey": "21",
+                    "reference": "00-0023500",
+                    "position": "RB",
+                    "sr_id": "sr:player:830117",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:17:09+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "0847010c-9a77-4f0b-9d63-c8b4b224d263",
+                    "name": "Brock Osweiler",
+                    "jersey": "8",
+                    "reference": "00-0029682",
+                    "position": "QB",
+                    "sr_id": "sr:player:830867",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:17:41+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e9ee9209-dd8f-4e4a-be3c-407756a2749c",
+                    "name": "DeVante Parker",
+                    "jersey": "11",
+                    "reference": "00-0031547",
+                    "position": "WR",
+                    "sr_id": "sr:player:834525",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-07T17:18:14+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Finger"
+                        }
+                    ]
+                },
+                {
+                    "id": "5de11f0b-8da9-42ba-9a93-db7f0a58543b",
+                    "name": "Jakeem Grant",
+                    "jersey": "19",
+                    "reference": "00-0032791",
+                    "position": "WR",
+                    "sr_id": "sr:player:988619",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T17:17:00+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "fda00e5c-b7df-487a-9a24-5e4087c575e1",
+                    "name": "MarQueis Gray",
+                    "jersey": "48",
+                    "reference": "00-0029878",
+                    "position": "TE",
+                    "sr_id": "sr:player:829525",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-05T19:05:23+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+            "name": "Bills",
+            "market": "Buffalo",
+            "alias": "BUF",
+            "sr_id": "sr:competitor:4376",
+            "players": [
+                {
+                    "id": "05640572-1b4d-40d5-b584-d79bdd7d5c5f",
+                    "name": "Julian Stanford",
+                    "jersey": "51",
+                    "reference": "00-0029061",
+                    "position": "MLB",
+                    "sr_id": "sr:player:829649",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T17:02:27+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Nose"
+                        }
+                    ]
+                },
+                {
+                    "id": "38a7122f-5c9d-4b65-99bc-b9822f9d981a",
+                    "name": "Lorenzo Alexander",
+                    "jersey": "57",
+                    "reference": "00-0023259",
+                    "position": "OLB",
+                    "sr_id": "sr:player:827887",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-06T18:24:17+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "f7ff7599-a175-4a0c-b887-3ae9e596fc64",
+                    "name": "Ray-Ray McCloud",
+                    "jersey": "14",
+                    "reference": "00-0034407",
+                    "position": "WR",
+                    "sr_id": "sr:player:1475002",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T17:02:34+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "de760528-1dc0-416a-a978-b510d20692ff",
+            "name": "Cardinals",
+            "market": "Arizona",
+            "alias": "ARI",
+            "sr_id": "sr:competitor:4412",
+            "players": [
+                {
+                    "id": "987fb8b2-98ba-4a01-bd84-d962dcdcd053",
+                    "name": "T.J. Logan",
+                    "jersey": "22",
+                    "reference": "00-0033789",
+                    "position": "RB",
+                    "sr_id": "sr:player:1130175",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T20:19:11+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "60cc4395-be8e-441f-b6b2-7e74e15f2593",
+                    "name": "Robert Nkemdiche",
+                    "jersey": "90",
+                    "reference": "00-0032761",
+                    "position": "DT",
+                    "sr_id": "sr:player:986885",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T20:19:11+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "78eb0872-fff0-4fc2-94ee-6a5c518ecaa5",
+                    "name": "Markus Golden",
+                    "jersey": "44",
+                    "reference": "00-0032127",
+                    "position": "DE",
+                    "sr_id": "sr:player:834745",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T20:20:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "b44773b9-af17-4d6c-a453-132e20849712",
+                    "name": "Jermaine Gresham",
+                    "jersey": "84",
+                    "reference": "00-0027873",
+                    "position": "TE",
+                    "sr_id": "sr:player:862598",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T20:19:11+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Achilles"
+                        }
+                    ]
+                },
+                {
+                    "id": "afaf2f2c-06e2-4d7d-9d6e-1b9bc5a1c8ff",
+                    "name": "Korey Cunningham",
+                    "jersey": "79",
+                    "reference": "00-0034687",
+                    "position": "T",
+                    "sr_id": "sr:player:1474956",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T20:18:55+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "a50e3085-370b-4fd2-b79a-28d3b9c5c1c7",
+                    "name": "Corey Peters",
+                    "jersey": "98",
+                    "reference": "00-0027686",
+                    "position": "DT",
+                    "sr_id": "sr:player:831413",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-07T20:19:02+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "0c042513-aba2-461c-ae16-db4bf83833fa",
+                    "name": "Olsen Pierre",
+                    "jersey": "72",
+                    "reference": "00-0031914",
+                    "position": "DT",
+                    "sr_id": "sr:player:1073910",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T20:19:11+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Toe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+            "name": "Saints",
+            "market": "New Orleans",
+            "alias": "NO",
+            "sr_id": "sr:competitor:4425",
+            "players": [
+                {
+                    "id": "e07c45a0-22f9-4ba2-9bbe-6c63e623bc38",
+                    "name": "Andrus Peat",
+                    "jersey": "75",
+                    "reference": "00-0032203",
+                    "position": "T",
+                    "sr_id": "sr:player:834551",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T18:49:25+00:00",
+                            "practice": {
+                                "status": "Limited Participation in Practice"
+                            },
+                            "primary": "Quadricep"
+                        }
+                    ]
+                },
+                {
+                    "id": "b31b2a6b-1464-4c78-a19c-1f6ae627d519",
+                    "name": "Jermon Bushrod",
+                    "jersey": "74",
+                    "reference": "00-0025512",
+                    "position": "G",
+                    "sr_id": "sr:player:830705",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2018-09-07T18:49:25+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Not Injury Related"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+            "name": "Rams",
+            "market": "Los Angeles",
+            "alias": "LA",
+            "sr_id": "sr:competitor:4387",
+            "players": [
+                {
+                    "id": "98c7ad4f-8e63-4028-b3ca-84dd37a5ae64",
+                    "name": "Mark Barron",
+                    "jersey": "26",
+                    "reference": "00-0029670",
+                    "position": "ILB",
+                    "sr_id": "sr:player:829855",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2018-09-08T19:45:19+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "b9b88174-d790-4ff2-85cd-fdbfa03405f6",
+                    "name": "Justin Davis",
+                    "jersey": "33",
+                    "reference": "00-0033760",
+                    "position": "RB",
+                    "sr_id": "sr:player:1130411",
+                    "injuries": [
+                        {
+                            "status_date": "2018-09-09T02:07:10+00:00",
+                            "practice": {
+                                "status": "Full Participation in Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+            "name": "Steelers",
+            "market": "Pittsburgh",
+            "alias": "PIT",
+            "sr_id": "sr:competitor:4345",
+            "players": [
+                {
+                    "id": "8f24a248-b328-43ec-8677-67600e42a8f7",
+                    "name": "Vance McDonald",
+                    "jersey": "89",
+                    "reference": "00-0030470",
+                    "position": "TE",
+                    "sr_id": "sr:player:831385",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2018-09-07T18:34:14+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "_comment": "Generation started @ 2018-10-17 16:17:51 +0000 ended @ 2018-10-17 16:17:51 +0000"
+}
