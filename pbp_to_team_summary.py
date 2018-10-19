@@ -21,13 +21,31 @@ week_lookup = {
 
 dir = './data/playbyplay'
 
+results = {}
+
 for filename in os.listdir(dir):
     file = dir + "/" + filename
 
     wk_lkup = filename[4:8]
-    week = week_lookup[wk_lkup]
+    week = str(week_lookup[wk_lkup])
 
     with open(file) as f:
         data = json.load(f)
         key = next(iter(data))
-        print(data[key]['home'])
+
+        home_team = data[key]['home']['abbr']
+        home_stats = data[key]['home']['stats']
+        if home_team not in results:
+            results[home_team] = {}
+        results[home_team][week] = home_stats
+
+        away_team = data[key]['away']['abbr']
+        away_stats = data[key]['away']['stats']
+        if away_team not in results:
+            results[away_team] = {}
+        results[away_team][week] = away_stats
+
+with open('./data/PlayerStatsByTeamWeek.json', 'w+') as fp:
+    json.dump(results, fp)
+
+print(results)
