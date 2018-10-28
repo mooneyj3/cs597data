@@ -130,4 +130,5 @@ def simple_to_ideal ():
 
     # print(results)
 
+# simple_data_extraction ()
 simple_to_ideal()
