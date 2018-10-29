@@ -1,7 +1,7 @@
 import requests, json, csv
 from bs4 import BeautifulSoup
 from collections import defaultdict
-UpperBound = 8
+UpperBound = 9
 outputFormat = "json"
 outFile = "../cs597data/PlayerData." + outputFormat
 
@@ -10,7 +10,6 @@ data = defaultdict(dict)
 def addRowToDictionary(row, week):
     firstCol = row.find('td', {'class': 'playertablePlayerName'})
     lastCol = row.find('td', {'class': 'appliedPoints'})
-    
     playerId = row.get('id')
     name = firstCol.find('a').text
     firstCol.a.decompose()
@@ -25,9 +24,8 @@ def addRowToDictionary(row, week):
     
     projectedPoints = lastCol.text
     
-    if playerId not in data:
-        data[playerId] = {
-            'Name' : name,
+    if name not in data:
+        data[name] = {
             'Id' : playerId,
             'Team' : team,
             'Posistion' : position,
@@ -37,15 +35,15 @@ def addRowToDictionary(row, week):
         'Week' : week,
         'ProjectedPoints' : projectedPoints
     }
-    data[playerId]['Weeks'].append(Weekdata)
+    data[name]['Weeks'].append(Weekdata)
     
 
 def addPointsToDictionary(row, week):
+    firstCol = row.find('td', {'class': 'playertablePlayerName'})
     lastCol = row.find('td', {'class': 'appliedPoints'})
-    playerId = row.get('id')
-    # name = firstCol.find('a').text
+    name = firstCol.find('a').text
     scoredPoints = lastCol.text
-    data[playerId]['Weeks'][week - 1]["AppliedPoints"] = scoredPoints
+    data[name]['Weeks'][week - 1]["AppliedPoints"] = scoredPoints
 
 def findProjectionData(uri, week):
     response = requests.get(uri)
